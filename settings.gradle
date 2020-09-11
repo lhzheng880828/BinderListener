@@ -1,0 +1,3 @@
+include ':binderlib'
+include ':app'
+rootProject.name = "BinderListener"
